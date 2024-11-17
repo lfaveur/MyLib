@@ -1,0 +1,19 @@
+# Ignorer le dossier des dépendances Composer
+/vendor/
+
+# Ignorer les fichiers de configuration locaux
+.env
+.env.local
+
+# Ignorer les fichiers de logs
+/var/log/
+/var/cache/
+
+# Ignorer les fichiers générés
+/public/bundles/
+/public/build/
+
+# Ignorer les fichiers spécifiques aux IDE
+.idea/
+.vscode/
+*.swp

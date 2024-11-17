@@ -1,0 +1,20 @@
+{
+    "name": "lfaveur/mylib-bundle",
+    "description": "a lib test",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "lfaveur\\MyLibBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lfaveur",
+            "email": "lfaveur@lfaveur.com"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "^7.1"
+    }
+}
