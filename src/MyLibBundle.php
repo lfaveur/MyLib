@@ -1,6 +1,6 @@
 <?php
 
-namespace MyLib;
+namespace lfaveur\MyLib;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

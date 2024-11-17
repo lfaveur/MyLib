@@ -1,6 +1,6 @@
 <?php
 
-namespace MyLib\DependencyInjection;
+namespace lfaveur\MyLib\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
